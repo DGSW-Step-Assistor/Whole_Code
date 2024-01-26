@@ -29,7 +29,8 @@ YOLO AI를 이용한 시각 장애인 전용 앱 프로젝트
 - 스피커로 인식한 결과 출력
 
 <br>
-![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/fcbd96d0-b33a-4944-8b7c-1c643ef35cc6)<br>
-![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/25cacdcc-96fb-45d9-b366-4673c5660230)<br>
-![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/46d50e9a-afe2-454e-b46b-dd66f6048fc9)<br>
-![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/45f9ab84-b21b-4e4c-b1c1-dabe0e2ab27c)
+
+![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/cee8c175-047c-4160-bbf0-e4101f3aa2d9)
+![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/0a2c8f50-6628-4a60-8f95-07f642ca31aa)
+![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/512870a1-5cad-49fa-82e8-060661b1845a)
+![image](https://github.com/DGSW-Step-Assistor/Whole_Code/assets/104053326/65109d29-7dda-41bf-a4eb-e2079acc02e9)
